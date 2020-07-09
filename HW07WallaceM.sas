@@ -3,6 +3,7 @@ Author: Matt Wallace
 Course: ST555 (001)
 Date Created: 4/2/2020
 Purpose: To create and validate datasets from the EPA datasets.
+Written in SAS code.
 */
 
 /* setting up librefs and filerefs */
